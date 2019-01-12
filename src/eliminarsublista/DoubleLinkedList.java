@@ -51,6 +51,24 @@ public class DoubleLinkedList<T> {
 		}
 		return pLista;
 	}
+
+	public boolean contains(T elem){
+		DoubleNode<T> aux = first;
+		boolean enc = false;
+		if (aux.data.equals(elem)) return true;
+		else{
+			aux = aux.next;
+			while (aux!=first && !enc){
+				if (aux.data.equals(elem)){
+					enc = true;
+				}else{
+					aux = aux.next;
+				}
+			}
+		}
+
+		return enc;
+	}
 	
 	public void insertLast(T elem) {
 		if (first == null) {
