@@ -1,11 +1,6 @@
 package grafoblanconegro;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 public class GrafoJuego {
     private HashMap<Integer, ArrayList<Casilla>> adyacentes;
@@ -125,43 +120,57 @@ public class GrafoJuego {
 
     public LinkedList<Casilla> camino(Casilla cComienzo, Casilla cFinal){
         Stack<Casilla> visitados = new Stack<Casilla>();
-        HashMap<Casilla, Casilla> camino = new HashMap<Casilla, Casilla>();
-        LinkedList<Casilla> resultado = new LinkedList<Casilla>();
-
         Queue<Casilla> sinExaminar = new LinkedList<Casilla>();
-        sinExaminar.add(cComienzo);
-        camino.put(cComienzo,  null);
-        //visitados.add(cComienzo);
-        boolean enc = false;
-        Casilla act = null;
+        HashMap<Casilla, Casilla> recorrido = new HashMap<Casilla, Casilla>();
+        LinkedList<Casilla> resultado = new LinkedList<Casilla>();
         ArrayList<Casilla> enlaces = new ArrayList<>();
+
+        resultado.add(cComienzo);
+        sinExaminar.add(cComienzo);
+        recorrido.put(cComienzo,  null);
+        visitados.add(cComienzo);
+        Casilla act = cComienzo;
+        boolean enc = false;
         int i = 0;
 
         while (!enc && !sinExaminar.isEmpty()) {
             act = sinExaminar.remove();
-            if (!visitados.contains(act)){
-                if (!visitados.isEmpty() && !visitados.peek().equals(act)) camino.put(visitados.peek(),act);
-                if (act.equals(cFinal)){
-                    enc = true;
-                }else {
-                    visitados.add(act);
-                    enlaces = adyacentes.get(act.valor);
-                    while (i < enlaces.size()) {
-                        if (!act.color.equals(enlaces.get(i).color)) ((LinkedList<Casilla>) sinExaminar).add(enlaces.get(i));
-                        i++;
+            if (act.equals(cFinal)) enc = true;
+            else {
+                Iterator<Casilla> itr = this.adyacentes.get(act.valor).iterator();
+                while (itr.hasNext() && !enc){
+                    Casilla vecino = itr.next();
+                    if (vecino.equals(cFinal) && !vecino.color.equals(act.color)){
+                        enc = true;
+                        recorrido.put(vecino,act);
+                    }else if (!visitados.contains(vecino) && !act.color.equals(vecino.color)){
+                        sinExaminar.offer(vecino);
+                        visitados.add(vecino);
+                        recorrido.put(vecino,act);
                     }
-                    i=0;
                 }
             }
         }
-        System.out.println(camino);
+        Stack<Casilla> pilaInversora = new Stack<>();
+
+        while (recorrido.get(act)!=null){
+            pilaInversora.push(act);
+            act = recorrido.get(act);
+        }
+        while (!pilaInversora.isEmpty()){
+            resultado.add(pilaInversora.pop());
+        }
+
+        if (resultado.size() != 1) resultado.add(cFinal);
+        else if(!enc) resultado = new LinkedList<>();
 
         return resultado;
     }
 
     public static void main(String[] args) {
         System.out.println("El resultado debería ser 20-17-4-3-1-9-5-13-11");
-        new GrafoJuego().camino(new Casilla("blanco", 11), new Casilla("blanco", 20));
+        LinkedList<Casilla> l = new GrafoJuego().camino(new Casilla("blanco", 11), new Casilla("blanco", 20));
+        System.out.println(l);
     }
 
 }
