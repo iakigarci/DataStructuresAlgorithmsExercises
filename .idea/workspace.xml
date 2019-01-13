@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef8e4db-8cc8-4aee-9992-15131f199c86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/addAfter/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/addAfter/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/Clinica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/Clinica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/OrderedSimpleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/OrderedSimpleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/Persona.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/PruebaClinica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/PruebaClinica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/PruebaSimpleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/PruebaSimpleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/SimpleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/SimpleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/UnorderedSimpleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/clinica/UnorderedSimpleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/colegio/Colegio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/colegio/Colegio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/colores/Juego.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/colores/Juego.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/contextofrase/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/contextofrase/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/contextofrase/ListaDePalabras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/contextofrase/ListaDePalabras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/eliminarsublista/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/eliminarsublista/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/eliminarsublista/DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/eliminarsublista/DoubleNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/eliminarsublista/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/eliminarsublista/Persona.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/juegodebloques/Juego.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/juegodebloques/Juego.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/laberinto/Casilla.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/laberinto/Casilla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/laberinto/Laberinto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/laberinto/Laberinto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/listadeamigos/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/listadeamigos/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/matrizinversa/MatrizB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/matrizinversa/MatrizB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/robot/Camino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/robot/Camino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/robot/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/robot/CircularLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios_EDA/sumadevectores/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicios_EDA/sumadevectores/Vector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eliminarsublista/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eliminarsublista/DoubleLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,60 +12,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/calculoeficiencia/BinaryTreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/laberintografo/GraphAL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-              <folding>
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/calculoeficiencia/BinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/calculoeficiencia/Arbol.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/PROGRAMAS/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="1048" selection-start-line="1048" selection-end-line="1048" />
-              <folding>
-                <element signature="e#43663#43664#0" expanded="true" />
-                <element signature="e#43691#43692#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/eliminarsublista/DoubleLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/laberintografo/GrafoLaberinto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+            <state relative-caret-position="414">
+              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -98,6 +51,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -118,11 +73,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/costearbol/ArbolTareas.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/grafoblanconegro/GrafoJuego.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/calculoeficiencia/Arbol.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/camino/Grafo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/laberintografo/GrafoLaberinto.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/evaluar/ArbolExpresion.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/busquedaenarbol/Arbol.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/arboldejuego/Arbol.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/clinica/Clinica.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/compilador/Compilador.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,12 +117,22 @@
         <option value="$PROJECT_DIR$/src/calculoeficiencia/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/calculoeficiencia/Arbol.java" />
         <option value="$PROJECT_DIR$/src/eliminarsublista/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/grafoblanconegro/Casilla.java" />
+        <option value="$PROJECT_DIR$/src/grafoblanconegro/GrafoJuego.java" />
+        <option value="$PROJECT_DIR$/src/redordenadores/RedOrdenadores.java" />
+        <option value="$PROJECT_DIR$/src/redordenadores/RedDeOrdenadores.java" />
+        <option value="$PROJECT_DIR$/src/camino/Grafo.java" />
+        <option value="$PROJECT_DIR$/src/spam/Persona.java" />
+        <option value="$PROJECT_DIR$/src/compilador/Compilador.java" />
+        <option value="$PROJECT_DIR$/src/laberintografo/GraphADT.java" />
+        <option value="$PROJECT_DIR$/src/laberintografo/GraphAL.java" />
+        <option value="$PROJECT_DIR$/src/laberintografo/GrafoLaberinto.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="1261" />
+    <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -193,13 +162,7 @@
               <item name="Ejercicios_EDA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ejercicios_EDA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="eliminarsublista" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ejercicios_EDA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ejercicios_EDA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="robot" type="462c0819:PsiDirectoryNode" />
+              <item name="laberintografo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,9 +173,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="laberintografo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GARCI\OneDrive\Escritorio\UNIVERSIDAD\EDA\REPOSITORIO\EjerciciosEDA\Ejercicios_EDA\src\clinica" />
     </key>
@@ -229,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arbol (2)">
+  <component name="RunManager" selected="Application.Compilador">
     <configuration name="Arbol (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arboldejuego.Arbol" />
       <module name="Ejercicios_EDA" />
@@ -256,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="busquedaenarbol.Arbol" />
+    <configuration name="Compilador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compilador.Compilador" />
       <module name="Ejercicios_EDA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="busquedaenarbol.*" />
+          <option name="PATTERN" value="compilador.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Colegio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colegio.Colegio" />
+    <configuration name="Grafo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="camino.Grafo" />
       <module name="Ejercicios_EDA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colegio.*" />
+          <option name="PATTERN" value="camino.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Laberinto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laberinto.Laberinto" />
+    <configuration name="GrafoJuego" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grafoblanconegro.GrafoJuego" />
       <module name="Ejercicios_EDA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laberinto.*" />
+          <option name="PATTERN" value="grafoblanconegro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Laberinto" />
-      <item itemvalue="Application.Colegio" />
-      <item itemvalue="Application.Arbol" />
       <item itemvalue="Application.Arbol (1)" />
       <item itemvalue="Application.Arbol (2)" />
+      <item itemvalue="Application.GrafoJuego" />
+      <item itemvalue="Application.Grafo" />
+      <item itemvalue="Application.Compilador" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Compilador" />
+        <item itemvalue="Application.Grafo" />
+        <item itemvalue="Application.GrafoJuego" />
         <item itemvalue="Application.Arbol (2)" />
         <item itemvalue="Application.Arbol (1)" />
-        <item itemvalue="Application.Arbol" />
-        <item itemvalue="Application.Colegio" />
-        <item itemvalue="Application.Laberinto" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +293,10 @@
       <workItem from="1547236286047" duration="39000" />
       <workItem from="1547236342729" duration="813000" />
       <workItem from="1547282593066" duration="10746000" />
-      <workItem from="1547303514982" duration="11524000" />
+      <workItem from="1547303514982" duration="12801000" />
+      <workItem from="1547327289355" duration="4808000" />
+      <workItem from="1547369437666" duration="7573000" />
+      <workItem from="1547390765524" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="Ej Evaluar Expresion">
       <created>1547285155542</created>
@@ -342,40 +312,48 @@
       <option name="project" value="LOCAL" />
       <updated>1547291258409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ej Cálculo de eficiencia">
+      <created>1547326159606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547326159606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23571000" />
+    <option name="totallyTimeSpent" value="37924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49920762" weight="0.39059082" />
+      <window_info id="Structure" order="1" sideWeight="0.5007924" side_tool="true" weight="0.14765458" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23585913" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40234792" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2349138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40193966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32657418" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32977587" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32550693" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32657418" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32550693" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24931003" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24842484" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32943293" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="6" weight="0.32943293" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,219 +399,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ej Evaluar Expresion" />
     <MESSAGE value="Ej Busqueda en Arbol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ej Busqueda en Arbol" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/laberinto/Laberinto.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/calculoeficiencia/Arbol.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Ej Cálculo de eficiencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ej Cálculo de eficiencia" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/partidadepoker/Pago.java" />
-    <entry file="file://$PROJECT_DIR$/src/clinica/IndexedListADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/ListADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/OrderedListADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/OrderedSimpleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/Persona.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/PruebaClinica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/PruebaOrderedSimpleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/PruebaSimpleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/UnorderedListADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/UnorderedSimpleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/Paciente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/SimpleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/Medicamento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/laberinto/Casilla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/laberinto/Laberinto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="e#754#763#0" expanded="true" />
-            <element signature="e#2224#2225#0" expanded="true" />
-            <element signature="e#2305#2306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/laberinto/Colegio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/colegio/Colegio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clinica/Clinica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/evaluar.java" />
-    <entry file="file://$PROJECT_DIR$/src/evaluar/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/evaluar/ArbolExpresion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/evaluar/InfoElemExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/PROGRAMAS/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/busquedaenarbol/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sumadevectores/PruebaVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/busquedaenarbol/Arbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/costearbol/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -677,55 +446,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/listaordenada/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/listaordenada/Arbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/listaordenada/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examenarbol/DatosAlumno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examenarbol/IDAlumno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examenarbol/Arbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/listaordenada/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/listaordenada/Arbol.java" />
+    <entry file="file://$PROJECT_DIR$/src/listaordenada/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/examenarbol/DatosAlumno.java" />
+    <entry file="file://$PROJECT_DIR$/src/examenarbol/IDAlumno.java" />
+    <entry file="file://$PROJECT_DIR$/src/examenarbol/Arbol.java" />
     <entry file="file://$PROJECT_DIR$/src/calculoeficiencia/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -792,6 +519,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/eliminarsublista/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="62" column="31" lean-forward="true" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://E:/PROGRAMAS/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -805,18 +539,205 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/calculoeficiencia/Arbol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="-12">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/eliminarsublista/DoubleLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/grafoblanco-negro/GrafoJuego.kt" />
+    <entry file="file://$PROJECT_DIR$/Ejercicios_EDA.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        <state relative-caret-position="230">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robot/Camino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GrafoJuego.java" />
+    <entry file="file://$PROJECT_DIR$/src/clinica/Clinica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/laberinto/Casilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/laberinto/Laberinto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinica/Medicamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinica/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinica/OrderedSimpleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinica/Paciente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinica/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clinica/PruebaClinica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/colegio/Colegio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/colores/Juego.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/PROGRAMAS/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grafoblanconegro/GrafoJuego.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="163" column="32" selection-start-line="163" selection-start-column="32" selection-end-line="163" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#GrafoJuego#0;class#GrafoJuego#0" />
+            <element signature="e#379#421#0" />
+            <element signature="e#1432#1441#0" expanded="true" />
+            <element signature="e#1546#1555#0" expanded="true" />
+            <element signature="e#1708#1717#0" expanded="true" />
+            <element signature="e#1847#1856#0" expanded="true" />
+            <element signature="e#1983#1992#0" expanded="true" />
+            <element signature="e#2191#2200#0" expanded="true" />
+            <element signature="e#2326#2335#0" expanded="true" />
+            <element signature="e#2511#2520#0" expanded="true" />
+            <element signature="e#2624#2633#0" expanded="true" />
+            <element signature="e#2814#2823#0" expanded="true" />
+            <element signature="e#2976#2985#0" expanded="true" />
+            <element signature="e#3167#3176#0" expanded="true" />
+            <element signature="e#3880#3889#0" expanded="true" />
+            <element signature="e#4015#4033#0" expanded="true" />
+            <element signature="e#4092#4101#0" expanded="true" />
+            <element signature="e#4106#4115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grafoblanconegro/Casilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redordenadores/RedOrdenadores.java" />
+    <entry file="file://$PROJECT_DIR$/src/redordenadores/RedDeOrdenadores.java" />
+    <entry file="file://$PROJECT_DIR$/src/Camino.java" />
+    <entry file="file://$PROJECT_DIR$/src/camino/Grafo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1056#1065#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spam/Persona.java" />
+    <entry file="file://$PROJECT_DIR$/src/compilador/Compilador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#413#0" expanded="true" />
+            <element signature="e#545#553#0" expanded="true" />
+            <element signature="e#686#694#0" expanded="true" />
+            <element signature="e#831#839#0" expanded="true" />
+            <element signature="e#948#956#0" expanded="true" />
+            <element signature="e#1066#1074#0" expanded="true" />
+            <element signature="e#1409#1417#0" expanded="true" />
+            <element signature="e#1469#1477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/laberintografo.java" />
+    <entry file="file://$PROJECT_DIR$/src/laberintografo/GraphADT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/laberintografo/GraphAL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/laberintografo/GrafoLaberinto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
         </state>
       </provider>
     </entry>
