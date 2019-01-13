@@ -70,16 +70,20 @@ public class ArbolTareas {
     private int coste(String idTarea, BinaryTreeNode root){
         // COMPLETAR CÓDIGO
         int cont = 0;
+        int arbolIzq = 0;
+        int arbolDer = 0;
         if (root==null) return 0;
         else{
-            if (root.element.id.equals(idTarea)) {
-                cont = suma(root);
+            if (root.element.id.equals(idTarea)){
+                if (root.left!=null) arbolIzq = coste(root.left.element.id, root.left);
+                if (root.right!=null) arbolDer = coste(root.right.element.id, root.right);
+                return (arbolDer+arbolIzq+root.element.coste);
             }else{
-                coste(idTarea,root.left);
-                coste(idTarea,root.right);
+                arbolIzq = coste(idTarea, root.left);
+                arbolDer = coste(idTarea, root.right);
+                return (arbolIzq+arbolDer);
             }
         }
-        return cont;
     }
 
     private int suma(BinaryTreeNode a) {

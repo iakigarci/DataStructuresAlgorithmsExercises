@@ -10,7 +10,5 @@ public class BinaryTreeNode {
         this.right = right;
     }
 
-    public BinaryTreeNode(){
-
-    }
+    public BinaryTreeNode(){ }
 }

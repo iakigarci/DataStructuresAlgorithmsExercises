@@ -6,19 +6,25 @@ public class GrafoLaberinto extends GraphAL<String>{
 
     public LinkedList<String> buscarCamino(String inicio, String fin){
         Queue<String> porExaminar = new LinkedList<>();
-        boolean[][] examinados = new boolean[DEFAULT_CAPACITY][DEFAULT_CAPACITY];
+        //boolean[][] examinados = new boolean[DEFAULT_CAPACITY][DEFAULT_CAPACITY];
+        Stack<String> examinados = new Stack<>();
+        HashMap<String, String> camino = new HashMap<>();
+        LinkedList<String> resultado = new LinkedList<>();
+        LinkedList<String> enlaces = new LinkedList<>();
+        porExaminar.add(inicio);
+        camino.put(inicio, null);
         boolean enc = false;
         String act = null;
-        HashMap<String, String> camino = new HashMap<>();
-        camino.put(inicio, null);
-        LinkedList<String> resultado = new LinkedList<>();
-        porExaminar.add(inicio);
-        LinkedList<String> enlaces = new LinkedList<>();
+
         while (!enc && !porExaminar.isEmpty()){
             act = porExaminar.poll();
-            if (!examinados[act.indexOf(0)][act.indexOf(1)]){
-                examinados[act.indexOf(0)][act.indexOf(1)] = true;
-                camino.
+            //if (!examinados[act.indexOf(0)][act.indexOf(1)]){
+                //examinados[act.indexOf(0)][act.indexOf(1)] = true;
+            if (!examinados.contains(act)){
+                if (!act.equals(inicio)){
+                    camino.put(examinados.peek(),act);
+                }
+                examinados.push(act);
                 if (act.equals(fin)){
                     enc = true;
                 }else{
@@ -29,5 +35,18 @@ public class GrafoLaberinto extends GraphAL<String>{
                 }
             }
         }
+        if (enc) {
+            boolean salir = false;
+            resultado.add(inicio);
+            String aux = null;
+            while (!salir) {
+                aux = camino.get(resultado.getLast());
+                resultado.add(aux);
+                if (aux.equals(fin)){
+                    salir = true;
+                }
+            }
+        }
+        return resultado;
     }
 }
