@@ -1,0 +1,30 @@
+REPASO DE LA ASIGNATURA EDA:
+
+1- ¿CÓMO CREAR UN CAMINO DE UN LABERINTO?
+  - Necesitamos:
+    · Cola "porExaminar"
+    · Stack "examinados"
+    · HashMap "recorrido"
+    
+  - Recorremos hasta que no queden elementos en la cola "porExaminar".
+  - Cojemos un elemento y comprobamos si acabamos.
+  - Cojemos los enlaces de referencia y los recorremos:
+    ·Comprobamos si acabamos con ese vecino. Si acabamos lo metemos en el HashMap (vecino,act).
+    ·Si no, comprobamos que el vecino no esté examinado. Entonces, metemos en: "porExaminar", marcamos en "examinado" y HashMap.
+   
+  - Cuando termines con todo invertimos el HashMap con un Stack.
+  - Para ello, recorremos el HasMap actualizando el Stack con el Value.
+  - Pasamos todos los valores del Stack al ArrayList y añadimos el final.
+  - Comprobamos que pudimos acabar el laberinto; si no, devolvemos null;
+  
+  
+2 - MÉTODOS COLAS
+  - add(): para introducir.
+  - get(): para obtener valor.
+  - remove(): elimina elemento.
+  - isEmpty(): nos dice si está vacia.
+  
+3- MÉTODOS PILAS
+  - push(): introduce un elemento.
+  - pop(): saca un elemento.
+  - peek(): muestra el elemento sin extraerlo.
