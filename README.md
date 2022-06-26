@@ -112,7 +112,7 @@ _Follow this instructuions to run the project properly._
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/iakigarci/DataStructuresAlorithmsExercises.git
+   git clone https://github.com/iakigarci/DataStructuresAlgorithmsExercises.git
    ```
 3. Install Java 
 4. Run each exercies with java command. Most of the exercises have test examples in the same file. 
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Iñaki García 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/iakigarci/DataStructuresAlorithmsExercises)
+Project Link: [https://github.com/iakigarci/DataStructuresAlgorithmsExercises](https://github.com/iakigarci/DataStructuresAlgorithmsExercises)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
