@@ -3,12 +3,11 @@
 <br />
 <div align="center">
 
-  <h1 align="center">Best-README-Template</h1>
+  <h1 align="center">Data Structures and Algorithms</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Some of the most used data structures and algorithms coded in Java
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <!--<br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -20,7 +19,7 @@
   <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://www.linkedin.com/in/iakigarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakigarci" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/12597050/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
     </p>
 </div>
 
@@ -57,12 +56,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This repository contains many examples of advanced data structures, such as HashMap or TreeMap. A few example of the advanced data estructures:
+- SimpleLinkedList
+- CircularLinkedList
+- UnorderedLinkedList
+- OrderedLinkedList
+- BinaryTreeNode
+- Graph
+- Vector
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Most of the examples come from the subject "Estructuras de Datos y Algoritmos" of Basque Country University (EHU/UPV)
 
 ### Built With
 
@@ -74,7 +77,7 @@ The technologies used for this project are as follows:
 <!-- BASH <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>-->     
 <!-- DOCKER <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>-->
 <!-- KUBERNETS  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>-->
-<!-- JAVA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>-->
+<!-- JAVA --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <!-- JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>-->
 <!-- Node <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>-->
 <!-- EX <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>-->
@@ -99,43 +102,28 @@ The technologies used for this project are as follows:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Install the latest version of Java. To check your current Java version, run the following command:
+* Java
   ```sh
-  npm install npm@latest -g
+  java -version
   ```
+ You must have java version 8 or higher. 
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Follow this instructuions to run the project properly._
 
-1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/iakigarci/DataStructuresAlorithmsExercises.git
    ```
-3. Install NPM packages
+3. Install Java 
+4. Run each exercies with java command. Most of the exercises have test examples in the same file. 
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   java Exercise.java
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
@@ -187,20 +175,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Iñaki García 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/iakigarci/)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/iakigarci/DataStructuresAlorithmsExercises)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-During this project, knowledge has been acquired that will be important for the future. Listed here are the resources that have been used in order to successfully complete this project:
-
-* [Choose an Open Source License](https://choosealicense.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
